@@ -1,0 +1,9 @@
+	Begin
+	Ipput a,b,c
+	a = max;
+	if max < b 
+	display b = max
+	then if max < c 
+	dipslay c = max
+	display max
+	end

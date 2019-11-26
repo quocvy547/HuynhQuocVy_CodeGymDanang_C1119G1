@@ -1,0 +1,7 @@
+Begin
+Input n
+Assume a = 23000 VND
+r = a * n
+If r = num
+End if
+End
