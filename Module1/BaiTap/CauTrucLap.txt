@@ -1,0 +1,10 @@
+Begin
+Input a1, ..., ai; i<n
+a1 = max
+while ai = a1, i<n
+Do
+   Display amax
+End do
+End
+
+
